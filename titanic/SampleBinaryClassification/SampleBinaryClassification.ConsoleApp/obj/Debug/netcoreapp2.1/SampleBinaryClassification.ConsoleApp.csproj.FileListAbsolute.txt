@@ -1,0 +1,15 @@
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.deps.json
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.runtimeconfig.json
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.runtimeconfig.dev.json
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.dll
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.pdb
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.dll
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\bin\Debug\netcoreapp2.1\SampleBinaryClassification.Model.pdb
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.AssemblyInfo.cs
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.csproj.CopyComplete
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.dll
+C:\Users\evsro\Documents\source\repos\titanic-mlnet\titanic\SampleBinaryClassification\SampleBinaryClassification.ConsoleApp\obj\Debug\netcoreapp2.1\SampleBinaryClassification.ConsoleApp.pdb
